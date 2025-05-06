@@ -4,8 +4,6 @@ Option #2
 
 Ahmed Nada
 
-Student ID: 1875772
-
 1.  How to run the code, how to use the system, functionalities of each
     program file
 
